@@ -111,7 +111,7 @@ export default function Home() {
                                     <ExternalLink className="h-4 w-4"/>
                                 </Link>
                             </h3>
-                            <p>Should I enroll in a bachelor's program to take that course and learn from that
+                            <p>Should I enroll in a bachelor&apos;s program to take that course and learn from that
                                 instructor?</p>
                         </div>
 
