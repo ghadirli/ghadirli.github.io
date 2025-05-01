@@ -5,9 +5,8 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  // If you're deploying to a GitHub Pages repo that's not username.github.io
-  // uncomment and edit the following line:
-  // basePath: '/your-repo-name',
+  // Optional: Set trailingSlash true for better compatibility with GitHub Pages
+  trailingSlash: true,
 };
 
 export default nextConfig;
