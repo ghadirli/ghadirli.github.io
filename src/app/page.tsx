@@ -36,15 +36,15 @@ export default function Home() {
 
                     {/* Right: Social media icons */}
                     <div className="flex justify-center md:justify-end gap-6">
-                        <Link href="https://twitter.com/yourusername" target="_blank" rel="noopener noreferrer"
+                        <Link href="https://twitter.com/ali_ghadirli" target="_blank" rel="noopener noreferrer"
                               className="text-foreground hover:text-primary transition-colors">
                             <Twitter className="w-6 h-6"/>
                         </Link>
-                        <Link href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer"
+                        <Link href="https://github.com/ghadirli" target="_blank" rel="noopener noreferrer"
                               className="text-foreground hover:text-primary transition-colors">
                             <Github className="w-6 h-6"/>
                         </Link>
-                        <Link href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer"
+                        <Link href="https://www.linkedin.com/in/alighadirli/" target="_blank" rel="noopener noreferrer"
                               className="text-foreground hover:text-primary transition-colors">
                             <Linkedin className="w-6 h-6"/>
                         </Link>
