@@ -54,7 +54,7 @@ export default function Home() {
                 {/* Bio content */}
                 <div className="mb-16 text-lg leading-relaxed">
                     <p className="mb-6">
-                        I am cofounder of ZRO (Zero Reliance Organizations).
+                        I am a cofounder of ZRO (Zero Reliance Organizations).
                     </p>
 
                     <p className="mb-6">
